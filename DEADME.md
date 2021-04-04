@@ -4,5 +4,15 @@
 1. 阅读
 2.  写作
 * 运动
-```javascript
-console.log("hello")
+
+我的网站是 [我的官网](https://www.baidu.com)
+
+![一张图](微信图片_20210404163133.jpg)
+
+
+
+
+
+
+
+
